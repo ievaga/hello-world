@@ -1,6 +1,8 @@
 # hello-world
-short description - practice and etc
+cia GitHub Pages isbandau
+
 
 -------
 cia yra rasomi kodo pataisymai
 -------
+
